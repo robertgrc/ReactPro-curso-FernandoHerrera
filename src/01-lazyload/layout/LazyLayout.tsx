@@ -5,7 +5,7 @@ import { LazyPage1, LazyPage2, LazyPage3 } from "../pages";
 export const LazyLayout = () => {
   return (
     <div>
-      <h1>LazyLayoutPage</h1>
+      <h1>LazyLayoutPages</h1>
       {/*Aqui iran las rutas hijas*/}
       <ul>
         <li>
